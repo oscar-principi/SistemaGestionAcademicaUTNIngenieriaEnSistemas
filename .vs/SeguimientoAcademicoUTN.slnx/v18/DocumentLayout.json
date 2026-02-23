@@ -1,0 +1,751 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\services\\materiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\services\\materiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\persistence\\entities\\correlatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\persistence\\entities\\correlatividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\mapping\\infrastructuremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\mapping\\infrastructuremappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\repositories\\estadomateriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\repositories\\estadomateriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\entities\\estadomateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\entities\\estadomateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\repositories\\correlatividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\repositories\\correlatividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\repositories\\materiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\repositories\\materiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\seguimientoacademico.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\seguimientoacademico.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\controllers\\materiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.api\\controllers\\progresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3D774D6-51BD-651D-6C49-5B636E6C0EDE}|backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj|solutionrelative:backend\\seguimientoacademico.api\\controllers\\progresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\services\\progresoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\services\\progresoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\iprogresoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\iprogresoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.infrastructure\\persistence\\seguimientoacademicodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4075986D-5454-8FB5-96C8-5F10E16255AF}|backend\\SeguimientoAcademico.Infrastructure\\SeguimientoAcademico.Infrastructure.csproj|solutionrelative:backend\\seguimientoacademico.infrastructure\\persistence\\seguimientoacademicodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\icorrelatividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\icorrelatividadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\entities\\correlatividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\entities\\correlatividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\iestadomateriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\iestadomateriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\imateriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\imateriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\imateriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\imateriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\enums\\estadomateriaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\enums\\estadomateriaenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\progresodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\progresodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\correlatividaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\correlatividaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\estadomateriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\estadomateriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\materiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\materiadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C695584-F6B8-73D4-923A-FC1A16274D00}|backend\\SeguimientoAcademico.Application\\SeguimientoAcademico.Application.csproj|solutionrelative:backend\\seguimientoacademico.application\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\entities\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\entities\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\entities\\planestudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\entities\\planestudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|c:\\users\\princ\\onedrive\\escritorio\\miutn\\seguimientoacademicoutn\\backend\\seguimientoacademico.domain\\entities\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E78E61-581A-7F49-5CF7-89E446EE6F55}|backend\\SeguimientoAcademico.Domain\\SeguimientoAcademico.Domain.csproj|solutionrelative:backend\\seguimientoacademico.domain\\entities\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Correlatividade.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Persistence\\Entities\\Correlatividade.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Persistence\\Entities\\Correlatividade.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Persistence\\Entities\\Correlatividade.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Persistence\\Entities\\Correlatividade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T22:45:02.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MateriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\MateriaRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\MateriaRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\MateriaRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\MateriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:59:26.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoMateriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\EstadoMateriaRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\EstadoMateriaRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\EstadoMateriaRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\EstadoMateriaRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:59:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Mapping\\InfrastructureMappingProfile.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Mapping\\InfrastructureMappingProfile.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Mapping\\InfrastructureMappingProfile.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Mapping\\InfrastructureMappingProfile.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T22:39:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T21:58:24.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstadoMateria.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\EstadoMateria.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Entities\\EstadoMateria.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\EstadoMateria.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Entities\\EstadoMateria.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:11:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MateriaService.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\MateriaService.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Services\\MateriaService.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\MateriaService.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Services\\MateriaService.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAWwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:58:45.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:49:41.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\appsettings.json",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T20:55:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeguimientoAcademico.Api",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\SeguimientoAcademico.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-21T21:46:30.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\appsettings.Development.json",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-21T20:55:39.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:50:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:50:23.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorrelatividadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\CorrelatividadRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\CorrelatividadRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Repositories\\CorrelatividadRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Repositories\\CorrelatividadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:02:32.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:27:22.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Program.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:27:58.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Controllers\\MateriasController.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\Controllers\\MateriasController.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Controllers\\MateriasController.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\Controllers\\MateriasController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:00:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProgresoController.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Controllers\\ProgresoController.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Api\\Controllers\\ProgresoController.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Api\\Controllers\\ProgresoController.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Api\\Controllers\\ProgresoController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:08:23.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProgresoService.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\ProgresoService.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Services\\ProgresoService.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\ProgresoService.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Services\\ProgresoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:07:51.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Services\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Services\\JwtProvider.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA5wCUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:53:20.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:10:00.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProgresoService.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IProgresoService.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IProgresoService.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IProgresoService.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IProgresoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:07:20.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SeguimientoAcademicoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Persistence\\SeguimientoAcademicoDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Infrastructure\\Persistence\\SeguimientoAcademicoDbContext.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Infrastructure\\Persistence\\SeguimientoAcademicoDbContext.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Infrastructure\\Persistence\\SeguimientoAcademicoDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:04:00.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICorrelatividadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\ICorrelatividadRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\ICorrelatividadRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\ICorrelatividadRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\ICorrelatividadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:02:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEstadoMateriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IEstadoMateriaRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IEstadoMateriaRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IEstadoMateriaRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IEstadoMateriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:58:25.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IMateriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:58:03.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Correlatividad.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Correlatividad.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Entities\\Correlatividad.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Correlatividad.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Entities\\Correlatividad.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IMateriaService.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaService.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaService.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaService.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IMateriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:57:44.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:54:15.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IJwtProvider.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:52:28.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:49:20.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:49:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProgresoDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\ProgresoDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\ProgresoDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\ProgresoDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\ProgresoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:25:08.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CorrelatividadDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\CorrelatividadDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\CorrelatividadDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\CorrelatividadDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\CorrelatividadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:24:53.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EstadoMateriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\EstadoMateriaDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\EstadoMateriaDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\EstadoMateriaDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\EstadoMateriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:24:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MateriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\MateriaDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\MateriaDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\MateriaDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\MateriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:24:31.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EstadoMateriaEnum.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Enums\\EstadoMateriaEnum.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Enums\\EstadoMateriaEnum.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Enums\\EstadoMateriaEnum.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Enums\\EstadoMateriaEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:12:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:24:05.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:23:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Application\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Application\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Application\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:23:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Materia.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Entities\\Materia.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Materia.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Entities\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:11:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PlanEstudio.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\PlanEstudio.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Entities\\PlanEstudio.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\PlanEstudio.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Entities\\PlanEstudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:10:58.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Carrera.cs",
+              "RelativeDocumentMoniker": "backend\\SeguimientoAcademico.Domain\\Entities\\Carrera.cs",
+              "ToolTip": "C:\\Users\\princ\\OneDrive\\Escritorio\\MiUTN\\SeguimientoAcademicoUTN\\backend\\SeguimientoAcademico.Domain\\Entities\\Carrera.cs",
+              "RelativeToolTip": "backend\\SeguimientoAcademico.Domain\\Entities\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:10:46.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

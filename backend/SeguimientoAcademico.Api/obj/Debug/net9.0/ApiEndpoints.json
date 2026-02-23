@@ -1,0 +1,112 @@
+[
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SeguimientoAcademico.Application.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SeguimientoAcademico.Application.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.MateriasController",
+    "Method": "GetMaterias",
+    "RelativePath": "api/materias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.MateriasController",
+    "Method": "ActualizarEstado",
+    "RelativePath": "api/materias/estado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SeguimientoAcademico.Application.DTOs.EstadoMateriaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.MateriasController",
+    "Method": "EliminarEstado",
+    "RelativePath": "api/materias/estado/{materiaId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "materiaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.MateriasController",
+    "Method": "GetHabilitadas",
+    "RelativePath": "api/materias/habilitadas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipo",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.ProgresoController",
+    "Method": "ObtenerProgreso",
+    "RelativePath": "api/progreso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SeguimientoAcademico.Api.Controllers.ProgresoController",
+    "Method": "ObtenerAprobadas",
+    "RelativePath": "api/progreso/aprobadas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
