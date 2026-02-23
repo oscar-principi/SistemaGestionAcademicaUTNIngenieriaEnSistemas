@@ -103,7 +103,7 @@ export default function Materias() {
   };
 
   return (
-    <div className="space-y-8 animate-in fade-in duration-500">
+    <div className="pt-10 md:pt-12 space-y-8 animate-in fade-in duration-500">
       {/* Header & Error Message */}
       <header className="flex flex-col md:flex-row md:items-end justify-between gap-4">
         <div>

@@ -125,9 +125,10 @@ export default function Register() {
 
         {/* Decoración Footer */}
         <div className="mt-8 flex justify-center items-center gap-4">
-          <div className="h-px bg-slate-800 flex-1"></div>
-          <p className="text-slate-600 text-[10px] font-mono tracking-widest uppercase">System Initialization</p>
-          <div className="h-px bg-slate-800 flex-1"></div>
+        {/* Footer */}
+        <p className="mt-8 text-center text-slate-600 text-[10px] font-mono uppercase tracking-[0.4em]">
+          UTN Sistemas - Seguimiento Académico 
+        </p>
         </div>
       </div>
     </div>

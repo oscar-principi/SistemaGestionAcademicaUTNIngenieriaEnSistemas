@@ -5,7 +5,7 @@ export default function Home() {
   const navigate = useNavigate();
 
   return (
-    <div className="max-w-5xl mx-auto space-y-12 animate-in fade-in slide-in-from-top-4 duration-1000">
+    <div className="mt-6 md:mt-10 max-w-5xl mx-auto space-y-12 animate-in fade-in slide-in-from-top-4 duration-1000">
       
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-slate-900 border border-slate-800 rounded-[3rem] p-8 md:p-16 shadow-2xl">
@@ -57,10 +57,10 @@ export default function Home() {
         />
       </section>
 
-      {/* Footer */}
-      <footer className="text-center text-slate-600 text-xs font-mono uppercase tracking-[0.3em] py-8">
-        UTN • Academic Tracking System v2.0
-      </footer>
+        {/* Footer */}
+        <p className="mt-8 text-center text-slate-600 text-[10px] font-mono uppercase tracking-[0.4em]">
+          UTN Sistemas - Seguimiento Académico 
+        </p>
     </div>
   );
 }

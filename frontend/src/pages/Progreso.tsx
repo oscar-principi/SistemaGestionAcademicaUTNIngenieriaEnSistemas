@@ -46,7 +46,7 @@ export default function Progreso() {
   }, []);
 
   return (
-    <div className="max-w-6xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-700">
+    <div className="pt-10 md:pt-12 space-y-8 animate-in fade-in duration-500">
       {/* Header */}
       <header>
         <h2 className="text-3xl font-black text-white tracking-tight flex items-center gap-3">
@@ -111,7 +111,7 @@ export default function Progreso() {
         <div className="p-8 border-b border-slate-800 flex justify-between items-center">
           <h3 className="text-xl font-bold text-white flex items-center gap-3">
             <Calendar className="text-cyan-500" size={20} /> 
-            Historial de Éxitos
+            Historial de Materias Aprobadas
           </h3>
           <span className="text-xs font-mono text-slate-500 uppercase">{aprobadas.length} Registros encontrados</span>
         </div>

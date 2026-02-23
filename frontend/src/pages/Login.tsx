@@ -40,7 +40,7 @@ export default function Login() {
             <GraduationCap size={32} className="text-black" />
           </div>
           <h1 className="text-3xl font-black text-white tracking-tighter">
-            UTN <span className="text-cyan-400">ACCESS</span>
+            UTN <span className="text-cyan-400">ACCESO</span>
           </h1>
           <p className="text-slate-500 text-sm font-medium uppercase tracking-[0.2em]">Seguimiento Académico</p>
         </div>
@@ -115,7 +115,7 @@ export default function Login() {
 
         {/* Footer */}
         <p className="mt-8 text-center text-slate-600 text-[10px] font-mono uppercase tracking-[0.4em]">
-          Secure Terminal v2.0 // UTN-FRC
+          UTN Sistemas - Seguimiento Académico 
         </p>
       </div>
     </div>
